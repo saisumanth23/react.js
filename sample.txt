@@ -1,1 +1,2 @@
-sample git file is now changed
+sample git file is now changed 
+i tried to change
